@@ -14,11 +14,11 @@ function App() {
 
                     <Data>
                         <Label> Usuário </Label>
-                        <Input placeholder="digite seu email ou CPF" />
+                        <Input/>
 
 
                         <Label>Senha</Label>
-                        <Input placeholder="Digite a sua senha" />
+                        <Input />
                     </Data>
 
 
